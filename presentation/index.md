@@ -1,3 +1,6 @@
-# Presentation du projet BTS CIEL
-
-Projet electronique integrant reseau, cybersecurite et systeme.
+---
+layout: default
+title: Presentation
+---
+# Projet BTS CIEL
+Projet electronique connecte integrant reseau, cybersecurite et systeme.
