@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accueil
+title: Accueil Projets les Trois Toits
 ---
 
 # Projet BTS CIEL
