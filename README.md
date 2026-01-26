@@ -16,7 +16,7 @@ Le projet Les Trois Toits, réalisé au lycée Livet à Nantes en partenariat av
 • Schéma, routage et fabrication de la sonde V1
 
 Étudiant 2
-• XIAO ESP32-C3
+• XIAO ESP32-C3 / ATmega328p
 • Arduino IDE
 • Communication LoRa
 • Capteur DHT22
